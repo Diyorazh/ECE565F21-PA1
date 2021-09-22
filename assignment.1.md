@@ -1,5 +1,6 @@
 ## ECE 565 Programming Assignment 1 Fall 2021
-Instructor: Prof.Vijaykumar, TA: Jinsu Zhang zhan3979@purdue.edu
+Instructor: Prof. Vijaykumar
+TA: Jinsu Zhang zhan3979@purdue.edu
 
 1. **Introduction**
    
