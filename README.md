@@ -1,6 +1,6 @@
 # ECE565F21-PA1
 
-Instructions on PA1, ECE 565 (Computer Architecture), Purdue University.
+Instructions on PA1, ECE 565 (Computer Architecture), Fall 2021, Purdue University.
 
 Please see the .md file
 
