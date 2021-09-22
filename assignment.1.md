@@ -9,13 +9,12 @@ TA: Jinsu Zhang zhan3979@purdue.edu
     
 1. **Setup**
    
-    The assignment has been made available through github classroom. To sign up - please link your github account by following the directions here:
-    
-    https://classroom.github.com/a/AM1IaVyD
+    The assignment has been made available through github classroom. To sign up - please link your github account. LINK ON PIAZZA.
     
     Please use your purdue username (the thing before @purdue.edu).
     
     When you accepted the assignment, a repo would automatically be created from our template code. Please check - if there is anything wrong please email me or report on Piazza.
+    
     
     The programming assignment will be completed on a cluster of "qstruct" servers. There are 19 of these machines. You can access them by ssh’ing into qstruct.ecn.purdue.edu from any terminal. You will use your Purdue Career Account username and password. Below is the sample command for logging in:
     ```console
