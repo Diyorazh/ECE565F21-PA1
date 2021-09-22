@@ -11,20 +11,22 @@ TA: Jinsu Zhang zhan3979@purdue.edu
    
     The assignment has been made available through github classroom. To sign up - please link your github account with your Purdue email by following the directions here:
     
-    https://classroom.github.com/a/WB9TgrPS
+    https://classroom.github.com/a/AM1IaVyD
+    (modified)
     
     The programming assignment will be completed on a cluster of "qstruct" servers. There are 19 of these machines. You can access them by ssh’ing into qstruct.ecn.purdue.edu from any terminal. You will use your Purdue Career Account username and password. Below is the sample command for logging in:
     ```console
     ssh <your-career-user-id>@qstruct.ecn.purdue.edu
     ```
     
-    Once logged into qstruct, you will need to install a missing python package and clone your version of the assignment from github classroom. To make a copy of your code locally use:
+    #Once logged into qstruct, you will need to install a missing python package and clone your version of the assignment from github classroom. To make a copy of your code locally use: (need to be modified)
     
     ```console
     pip3 install --user six
     module load git # you should add this line to your ~/.bashrc file so that each time you login - otherwise you will end up using an ancient git version
-    git clone https://github.com/Purdue-ECE565-Fall2021/programming-assignment-1-<your-github-user-name>.git
+    git clone https://github.com/tgrogers/gem5.git
     ```
+    (Prof.Rogers' original code repo)
     
     Git is the world's most popular revision control system, so if you are not familiar with it, now is a great time :).
     Given it's popularity, it is very well documented simply googling will give you a number of high-quality tutorials to get you familiar with it. This assignemnet doc will provide you with the basic commands.
