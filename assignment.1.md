@@ -54,6 +54,8 @@ TA: Jinsu Zhang zhan3979@purdue.edu
     
     This file indicates that the target ISA is X86, and all of the CPU Models should be compiled in. The last line PROTOCOL is a specific type of coherence protocol for the Ruby Memory Model, which we will ignore for now.
 For this assignment, we will use the x86 and ARM build configurations. Now, the command to build this configuration is:
+
+(Please cd into your cloned directory)
     
     ```console
     scons-3 -j 4 ./build/X86/gem5.opt
