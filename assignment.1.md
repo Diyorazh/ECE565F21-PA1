@@ -273,7 +273,7 @@ For this assignment, we will use the x86 and ARM build configurations. Now, the 
 
                     if  options and options.fpu_issue_latency:
                         self.issueLat = options.fpu_issue_latency
-            ```
+                        self.issueLat = options.fpu_issue_latency
 
 
             class MyFUPool(MinorFUPool):
